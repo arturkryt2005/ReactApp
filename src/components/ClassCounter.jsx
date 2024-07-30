@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react";н
 // устаревшее кароче но мб тоже пригодится
 class ClassCounter extends React.Component {
 

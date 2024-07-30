@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: lightsteelblue;
+    font-family: "Montserrat Medium", sans-serif;
 }
 
 #root{
@@ -11,6 +13,7 @@
 
 .App {
     width: 800px;
+
 }
 
 .post{
